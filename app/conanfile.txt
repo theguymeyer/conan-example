@@ -1,0 +1,8 @@
+[requires]
+fib/1.1@gmeyer/testing
+
+[imports]
+bin, * -> ./res
+include, * -> ./res
+src, * -> ./res
+lib, * -> ./res
